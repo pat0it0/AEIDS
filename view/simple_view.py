@@ -2474,4 +2474,5 @@ def main(page: ft.Page):
 
     page.go("/")
 
+print("OK")
 
